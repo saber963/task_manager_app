@@ -47,7 +47,7 @@
  Made by    Khushi Prasad Khyati shastri Himanshi solanki
 </h2>
 <h2 align="center">
- Presesnted to Upendra singh sir
+ Under the guidance of Upendra singh sir.
 </h2>
 
   
